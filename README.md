@@ -1,7 +1,7 @@
 # DBC平台收集机器信息
 
 ## Usage
-1. 下载在线文档到程序根目录中。
+1. 下载最新的在线文档到程序根目录中。
 2. 在main_xls.py中填写随机字符串rand_str,签名sign_str等信息。
 3. 执行main_xls.py。
 
