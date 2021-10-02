@@ -15,4 +15,4 @@ python main_xls.py
   当增加新机器的时候，可以再次将在线表格下载到本地，或者将新添加的行保存到本地已下载的待验证机器表中。再次执行程序，程序会以附加的方式来添加新机器的信息。
 
 ## 感谢
-感谢[Weipeilang](https://github.com/Weipeilang)  将本项目利用pandas重写以及增添了附加新机器的功能。
+感谢 [Weipeilang](https://github.com/Weipeilang)  将本项目利用pandas重写以及增添了附加新机器的功能。
